@@ -13,7 +13,7 @@ ONLINE TRAINING  </font>
     <input type="checkbox" name="skill" value="System Administraion">System Administraion
     <input type="checkbox" name="skill" value="Automation"  /t  >Automation 
     <marquee width=300 height=25 direction=right behavior=alternate scrollamount=5>
-<font color=blue face="Monotype Corsiva" size=5> Trainer is joge</font>
+<font color=blue face="Monotype Corsiva" size=5> Trainer is joge1</font>
  <input type="submit" value= "andrapradesh" </marquee>
   </form>
  
